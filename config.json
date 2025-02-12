@@ -1,0 +1,9 @@
+{
+    "threads": 50,
+    "wait_time": 3900,
+    "is_do_task": true,
+    "timeout": 10000,
+    "invite_code": "9I9YWF",
+    "MIN_WARBOND_THRESHOLD": 1000,
+    "TARGET_GUILD_ID": "73b50c39-9a42-4046-b0df-c561bf79bb4b"
+}
